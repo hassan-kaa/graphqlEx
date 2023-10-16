@@ -1,0 +1,27 @@
+{
+  "name": "graphqlex",
+  "version": "1.0.0",
+  "description": "A graphql simple project tutorial",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassan-kaa/graphqlEx.git"
+  },
+  "author": "Hassan Kaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hassan-kaa/graphqlEx/issues"
+  },
+  "homepage": "https://github.com/hassan-kaa/graphqlEx#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
